@@ -79,12 +79,9 @@ To create a user in osTicket, access the Agent Panel, go to Users -> Add New, an
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/O3OldKP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
-"To create a user in osTicket, access the Agent Panel, go to Users -> Add New, and select 'Add New User.' Enter the user's details, including their name, email, and any additional relevant information. Save the details to onboard users, enabling them to interact with the ticketing system within osTicket.
-
 For Help Topics in osTicket, navigate to Admin Panel -> Manage -> Help Topics, and choose 'Add New Help Topic.' Define the topic, assign it to specific departments or teams, and set its priority or visibility. Save the changes to categorize and streamline ticket handling based on defined topics within osTicket.
 </p>
 <br />

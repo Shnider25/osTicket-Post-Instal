@@ -33,7 +33,7 @@ This is a step by step outlines of the post-install configuration of the open-so
 <img src="https://i.imgur.com/0HNhIo8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Adding a role on osTicket involves accessing the Admin Panel, navigating to Agents -> Roles, and selecting 'Add New Role.' Customize role permissions, define access levels, and save to effectively manage user responsibilities and access within osTicket
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/iisL7ki.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To create a department in osTicket, access the Admin Panel, proceed to Agents -> Departments, and click 'Add New Department.' Define the department's details, including its name, email address, and other relevant information. Save the configuration to establish distinct functional divisions, streamlining ticket management and assignment within osTicket.
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/6gi5UB4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To establish a team within osTicket, navigate to the Admin Panel, select Agents -> Teams, and click on 'Add New Team.' Specify the team's particulars, such as its name, members, and responsibilities. Save the details to create cohesive groups, facilitating collaborative ticket resolution and task assignment within osTicket.
 </p>
 <br />
 
@@ -57,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/0XFGobl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To add an agent in osTicket, access the Admin Panel, go to Agents -> Add New, and select 'Add New Agent.' Input the agent's details, including their name, email, and assign relevant permissions. Save the changes to onboard new team members, enabling them to manage tickets and assist users within osTicket's platform
 </p>
 <br />
 
@@ -65,7 +65,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/HiLhNdP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To configure Service Level Agreements (SLA) in osTicket, access the Admin Panel, navigate to Manage -> SLA, and click 'Add New SLA.' Define the SLA parameters, including response times and resolution expectations. Save the settings to establish distinct service level agreements, ensuring timely and efficient ticket handling based on predefined criteria within osTicket."
+
 </p>
 <br />
 
@@ -73,6 +74,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/52UPTGp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To create a user in osTicket, access the Agent Panel, go to Users -> Add New, and select 'Add New User.' Enter the user's details, including their name, email, and any additional relevant information. Save the details to onboard users, enabling them to interact with the ticketing system within osTicket.
+</p>
+<br />
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+"To create a user in osTicket, access the Agent Panel, go to Users -> Add New, and select 'Add New User.' Enter the user's details, including their name, email, and any additional relevant information. Save the details to onboard users, enabling them to interact with the ticketing system within osTicket.
+
+For Help Topics in osTicket, navigate to Admin Panel -> Manage -> Help Topics, and choose 'Add New Help Topic.' Define the topic, assign it to specific departments or teams, and set its priority or visibility. Save the changes to categorize and streamline ticket handling based on defined topics within osTicket.
 </p>
 <br />
